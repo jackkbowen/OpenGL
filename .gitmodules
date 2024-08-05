@@ -1,0 +1,12 @@
+[submodule "Wireframe-Models"]
+	path = Wireframe-Models
+	url = https://github.com/jackkbowen/Wireframe-Models
+[submodule "Shading-and-Lighting"]
+	path = Shading-and-Lighting
+	url = https://github.com/jackkbowen/Shading-and-Lighting
+[submodule "Camera-Animation-Transformations"]
+	path = Camera-Animation-Transformations
+	url = https://github.com/jackkbowen/Camera-Animation-Transformations
+[submodule "Object-Transformations-Shading"]
+	path = Object-Transformations-Shading
+	url = https://github.com/jackkbowen/Object-Transformations-Shading
